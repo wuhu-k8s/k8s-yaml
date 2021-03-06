@@ -1,1 +1,1 @@
-# k8s-yaml
+# this is k8s config yaml file
